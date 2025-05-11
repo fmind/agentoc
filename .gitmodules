@@ -1,0 +1,6 @@
+[submodule "modelcontextprotocol"]
+	path = modelcontextprotocol
+	url = https://github.com/modelcontextprotocol/modelcontextprotocol.git
+[submodule "A2A"]
+	path = A2A
+	url = https://github.com/google/A2A.git
