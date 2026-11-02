@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository supports the Medium article, **[Hackathon Speedrun: Build & Deploy a RAG App in Minutes with Vertex AI Studio & Vertex AI Search!](https://fmind.medium.com/hackathon-speedrun-build-deploy-a-rag-app-in-minutes-with-vertex-ai-studio-vertex-ai-search-f1687be7e6b4)".
+This repository supports the article **[Hackathon Speedrun: Build & Deploy a RAG App in Minutes with Vertex AI Studio & Vertex AI Search!](https://www.fmind.dev/articles/hackathon-speedrun-build-deploy-a-rag-app-in-minutes-with-vertex-ai-studio-vertex-ai-search/)**.
 
 The project focuses on creating a Q&A assistant grounded in the documentation for the A2A and MCP protocols, showcasing a fast path from data to deployed AI assistant.
 
@@ -16,7 +16,7 @@ The project focuses on creating a Q&A assistant grounded in the documentation fo
 
 ## Getting Started
 
-Follow the detailed steps in the accompanying Medium article ([Link to your Medium article]).
+Follow the detailed steps in the [accompanying article](https://www.fmind.dev/articles/hackathon-speedrun-build-deploy-a-rag-app-in-minutes-with-vertex-ai-studio-vertex-ai-search/).
 
 The high-level process involves:
 
@@ -37,7 +37,7 @@ The high-level process involves:
 
 ## Learn More
 
-* **Medium Article:** [Hackathon Speedrun: Build & Deploy a RAG App in Minutes with Vertex AI Studio & Vertex AI Search!](https://fmind.medium.com/hackathon-speedrun-build-deploy-a-rag-app-in-minutes-with-vertex-ai-studio-vertex-ai-search-f1687be7e6b4)
+* **Article:** [Hackathon Speedrun: Build & Deploy a RAG App in Minutes with Vertex AI Studio & Vertex AI Search!](https://www.fmind.dev/articles/hackathon-speedrun-build-deploy-a-rag-app-in-minutes-with-vertex-ai-studio-vertex-ai-search/)
 * A2A Protocol: https://google.github.io/A2A/
 * Model Context Protocol (MCP): https://modelcontextprotocol.io/introduction
 
